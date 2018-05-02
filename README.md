@@ -20,7 +20,7 @@ towards backwards compatibility.
 ``` bash
 unzip <name-of-the-zip-file>.zip
 cd build
-./src/vm <file-to-be-open>
+./vm <file-to-be-open>
 ```
 
 Disclaimer: Due to University of Waterloo Policy #71, source code of this project is not publically available. However, I am gladly willing to share the source code upon request for non-course purposes.

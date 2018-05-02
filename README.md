@@ -16,7 +16,7 @@ componentized, nearly anything can be created or even overridden in vm.
 ● Built for updates - new core features and APIs can be created later on with minimal impact
 towards backwards compatibility.  
 
-## Instruction 
+## Instructions 
 ``` bash
 unzip <name-of-the-zip-file>.zip
 cd build

@@ -18,7 +18,7 @@ towards backwards compatibility.
 
 ## Instructions (Linux)
 ``` bash
-unzip <name-of-the-zip-file>.zip
+unzip build.zip
 cd build
 ./vm <file-to-be-opened>
 ```

@@ -25,4 +25,4 @@ cd build
 ./vm <file-to-be-opened>
 ```
 
-Disclaimer: Due to Policy #71, source code of this project is not publically available. However, I can share the source code upon  request at my discretion.
+Disclaimer: Due to University of Waterloo Policy #71, source code of this project is not publically available. However, I can share the source code upon  request at my discretion.

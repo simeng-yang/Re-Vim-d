@@ -3,7 +3,7 @@
 Re-Vim'd is a lightweight implementation of classic Vi editor using C++.   
 We implemented most of the core features in Vim editor including navigation, file open/save, editing, undo, macros and syntax-highlighting for the C++ language.
 
-![vim](https://storage.googleapis.com/simengyang/vim.gif)
+![vim](https://i.ibb.co/6PHy5mn/vim.gif)
 
 As a high-level overview, the program conforms to the SOLID design principles and follows a Model View Controller (MVC) architecture
 with support of dynamic module loading. 
